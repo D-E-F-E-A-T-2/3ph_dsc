@@ -33,6 +33,8 @@ Sorry but I won't be able to discuss on call in night for 2 days.
 #### Reviewd by Angad: Deadline set to 6-1-2020
 #### Reviewd by Abhishek: Better Model needed
 
+#### Thoughts: Complete Refactor of project workflow, build from scratch after discussing with Angad and Abhishek.
+
 -------------------------------------------------------------------------------
 
 ## Update 2:
