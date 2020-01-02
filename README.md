@@ -14,6 +14,11 @@
 ## Update1:
 Date- 2/1/2020, Time- 21:53
 
+Target:
+
+* Finish the project.
+
+
 WorkDone:
 
 Endpoint for searching media (stuck with how to get playback count incremented when ShowMedia(playback) api is called)
@@ -33,12 +38,21 @@ Sorry but I won't be able to discuss on call in night for 2 days.
 #### Reviewd by Angad: Deadline set to 6-1-2020
 #### Reviewd by Abhishek: Better Model needed
 
+#### Conclusion: Prototype shown had sick code, reviewers under lema. Coder under Depression.
+
 #### Thoughts: Complete Refactor of project workflow, build from scratch after discussing with Angad and Abhishek.
 
 -------------------------------------------------------------------------------
 
 ## Update 2:
 Date- 3/1/2020, Time- 21:00
+
+Target:
+* Decide workflow
+* Project Understanding Check by discussion
+* Find Apropriate models after discussion
+* Create Authentication for user and Model with 1-2-1 relationship 
+* Finish 25% of Project
 
 WorkDone:
 
@@ -52,6 +66,11 @@ ChallengesAhead:
 ## Update 3:
 Date- 4/1/2020, Time- 21:00
 
+Target:
+* Backend part to be finished related with api's
+* Finish 55% of Project
+
+
 WorkDone:
 
 ChallengesAhead:
@@ -64,6 +83,10 @@ ChallengesAhead:
 ## Update 4:
 Date- 5/1/2020, Time- 21:00
 
+Target:
+* Backend part to be finished related with api's
+* Finish 75% of Project
+
 WorkDone:
 
 ChallengesAhead:
@@ -75,6 +98,13 @@ ChallengesAhead:
 
 ## Update 5:
 Date- 6/1/2020, Time- 21:00
+
+
+Target:
+* Use AJAX for Frontend
+* Templating
+* Conclude it finished, even if it's not.
+
 
 WorkDone:
 
