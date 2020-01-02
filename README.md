@@ -9,6 +9,7 @@
 * User will login, their own db to keep count for playbacks of different media and downloads performed by them
 * User can playback media, download a media, view stats of downloads and playbacks on basis of day and monthly.
 * Permission classes for admin and user
+* playback and download details have to be updated for media or user
 
 Update1:
 Date- 2/2/2020, Time- 21:53
