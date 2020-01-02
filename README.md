@@ -23,6 +23,7 @@ Endpoint for searching media (stuck with how to get playback count incremented w
 -- Download media
 
 ChallengesAhead:
+
 Keeping proper authentication and making a suffice database are major challenges here.
 Will update it after refactoring the workflow, old ways won't make it.
 Sorry but I won't be able to discuss on call in night for 2 days.
