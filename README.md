@@ -1,6 +1,6 @@
 # vacation-khatam-hui
 
-### Appologies for stating the work very late, Working from home is never easy for me for I am lost in Peace but back to work now.
+### Appologies for stating the work very late, Working from home is never easy for me for I am lost in Peace
 
 
 #### After starting work I found this project gets complexed when we have many number of users as then we have to take care of these things (possibly more that are unoticed), A simple breakdown:
