@@ -11,8 +11,8 @@
 * Permission classes for admin and user
 * playback and download details have to be updated for media or user
 
-Update1:
-Date- 2/2/2020, Time- 21:53
+## Update1:
+Date- 2/1/2020, Time- 21:53
 
 Endpoint for searching media (stuck with how to get playback count incremented when ShowMedia(playback) api is called)
 -- It includes adding media (generic CreateAPIView)
@@ -26,4 +26,55 @@ Sorry but I won't be able to discuss on call in night for 2 days.
 
 
 
+#### Reviewd by Angad: Deadline set to 6-1-2020
+#### Reviewd by Abhishek: Better Model needed
+
 -------------------------------------------------------------------------------
+
+## Update 2:
+Date- 3/1/2020, Time- 21:00
+
+WorkDone:
+
+ChallengesAhead:
+
+#### Reviewd by Angad:
+#### Reviewd by Abhishek:
+
+------------------------------------------------------------------------------
+
+## Update 3:
+Date- 4/1/2020, Time- 21:00
+
+WorkDone:
+
+ChallengesAhead:
+
+#### Reviewd by Angad:
+#### Reviewd by Abhishek:
+
+------------------------------------------------------------------------------
+
+## Update 4:
+Date- 5/1/2020, Time- 21:00
+
+WorkDone:
+
+ChallengesAhead:
+
+#### Reviewd by Angad:
+#### Reviewd by Abhishek:
+
+------------------------------------------------------------------------------
+
+## Update 5:
+Date- 6/1/2020, Time- 21:00
+
+WorkDone:
+
+ChallengesAhead:
+
+#### Final Review (Angad):
+#### Final (Abhishek):
+
+------------------------------------------------------------------------------
