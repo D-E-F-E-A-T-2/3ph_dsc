@@ -14,12 +14,15 @@
 ## Update1:
 Date- 2/1/2020, Time- 21:53
 
+WorkDone:
+
 Endpoint for searching media (stuck with how to get playback count incremented when ShowMedia(playback) api is called)
 -- It includes adding media (generic CreateAPIView)
 -- Viewing Media (api that will support playback increment)
 -- One click play for user
 -- Download media
 
+ChallengesAhead:
 Keeping proper authentication and making a suffice database are major challenges here.
 Will update it after refactoring the workflow, old ways won't make it.
 Sorry but I won't be able to discuss on call in night for 2 days.
