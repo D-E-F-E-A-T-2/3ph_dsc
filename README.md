@@ -54,12 +54,12 @@ Target:
 * Create Authentication for user and Model with 1-2-1 relationship 
 * Finish 25% of Project
 
-WorkDone:
+WorkDone: What models and authentication to be used(djsoure) decided. End-routes and their functionalities decided.
 
-ChallengesAhead:
+ChallengesAhead: To implement in shorter time.
 
-#### Reviewd by Angad:
-#### Reviewd by Abhishek:
+#### Reviewd by Angad: Not Conntacted
+#### Reviewd by Abhishek: Disccussed the workdone.
 
 ------------------------------------------------------------------------------
 
