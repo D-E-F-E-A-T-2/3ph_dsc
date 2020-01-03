@@ -61,6 +61,9 @@ ChallengesAhead: To implement in shorter time.
 #### Reviewd by Angad: Not Conntacted
 #### Reviewd by Abhishek: Disccussed the workdone.
 
+#### Conclusion: Finish it.
+#### Thoughts: Django is stupid, I am lazy.
+
 ------------------------------------------------------------------------------
 
 ## Update 3:
