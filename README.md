@@ -78,8 +78,8 @@ WorkDone:
 
 ChallengesAhead:
 
-#### Reviewd by Angad:
-#### Reviewd by Abhishek:
+#### Reviewd by Angad: X
+#### Reviewd by Abhishek: X
 
 ------------------------------------------------------------------------------
 
@@ -90,9 +90,9 @@ Target:
 * Backend part to be finished related with api's
 * Finish 75% of Project
 
-WorkDone:
+WorkDone: X
 
-ChallengesAhead:
+ChallengesAhead: X
 
 #### Reviewd by Angad:
 #### Reviewd by Abhishek:
