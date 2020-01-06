@@ -4,7 +4,7 @@ from django.http import HttpResponse
 
 def testing(self):
     return HttpResponse("""<H2>Welcome to Guide, Some endpoints
-    </br>
+    </br> admin name:admin  password:123456   </br>
                         admin/ --populate data in download infos  to see the effect when caling stats api
                         </br>
                         --media infos consists of media details, primary key is name
