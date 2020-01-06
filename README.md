@@ -33,7 +33,7 @@ It's a Download manager with following endpoints:
 Implementation to be done using AJAX and Django in backend.
 Workdone: Backend
 
- (Link to api docs)[https://documenter.getpostman.com/view/9118595/SWLe8ofT?version=latest]
+[Link to api docs](https://documenter.getpostman.com/view/9118595/SWLe8ofT?version=latest)
 
 To start athuentication comment out *permissions* from api classes in apps.
 
