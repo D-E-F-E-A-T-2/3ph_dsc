@@ -23,7 +23,7 @@ WorkDone: Done
 -----------------------------------------------------------------------
 
 ### Download Mananger
-{{ REVIEW INFO PRIVATE}}
+{{ REVIEW INFO}}
 
 It's a Download manager with following endpoints:
  Endpoint for searching media
@@ -32,6 +32,10 @@ It's a Download manager with following endpoints:
 
 Implementation to be done using AJAX and Django in backend.
 Workdone: Backend
+
+ (Link to api docs)[https://documenter.getpostman.com/view/9118595/SWLe8ofT?version=latest]
+
+To start athuentication comment out *permissions* from api classes in apps.
 
 
 ![image](https://user-images.githubusercontent.com/41824020/71837998-db195e80-30dd-11ea-8463-ff867bf22001.png)
