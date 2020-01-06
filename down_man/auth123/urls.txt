@@ -1,0 +1,12 @@
+http://127.0.0.1:8000/auth/nope/
+http://127.0.0.1:8000/auth/users/   --create users
+http://127.0.0.1:8000/auth/token/login/    --use this endpoint for user authetication token
+http://127.0.0.1:8000/auth/users/login/    --to login
+http://127.0.0.1:8000/auth/token/logout/    --logout
+http://127.0.0.1:8000/auth/users/logout/  
+
+a91f1671a0b959c391a4367d80cb55d3ede2dfd7
+
+
+media routes:
+    path('MediaInfoViewSet/<pk>', MediaInfoViewSet.as_view()), --gives media query, with media_name media_size and media itself.
