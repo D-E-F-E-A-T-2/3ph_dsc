@@ -4,7 +4,7 @@ from django.http import HttpResponse
 
 def testing(self):
     return HttpResponse("""<H2>Welcome to Guide, Some endpoints
-    </br> admin name:admin  password:123456   </br>
+    </br>admin name:admin, password:123456</br>
                         admin/ --populate data in download infos  to see the effect when caling stats api
                         </br>
                         --media infos consists of media details, primary key is name
@@ -28,7 +28,7 @@ http://127.0.0.1:8000/auth/users/logout/
                         </br>
                         media/ --
                         </br>
-                        MediaInfoViewSet/<pk> , where <pk> is song name, it's a get api for media details, from here media file will be downloaded
+                        MediaInfoViewSet/pk , where pk is song name, it's a get api for media details, from here media file will be downloaded example MediaInfoViewSet/song1
                         </br></br></br>
                         download/   -----</br>
                         urlpatterns = [
