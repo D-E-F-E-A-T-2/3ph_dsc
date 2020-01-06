@@ -1,5 +1,29 @@
 # vacation-khatam-hui
 
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+### gRPC DOS:
+WorkDone: Implemented in order to dos with high traffic.
+Conclusion: Implement again using SlowLorris.
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+### CRUD
+WorkDone: Done
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+### Download Mananger
+
 ### Appologies for stating the work very late, Working from home is never easy for me for I am lost in Peace
 
 
@@ -94,8 +118,8 @@ WorkDone: X
 
 ChallengesAhead: X
 
-#### Reviewd by Angad:
-#### Reviewd by Abhishek:
+#### Reviewd by Angad: X
+#### Reviewd by Abhishek: X
 
 ------------------------------------------------------------------------------
 
@@ -109,11 +133,12 @@ Target:
 * Conclude it finished, even if it's not.
 
 
-WorkDone:
+WorkDone: Backend
 
-ChallengesAhead:
+ChallengesAhead: Postman errors
 
-#### Final Review (Angad):
-#### Final (Abhishek):
+#### Final Review (Angad): 
+#### Final (Abhishek): Contacting for Hosting
 
+------------------------------------------------------------------------------
 ------------------------------------------------------------------------------
